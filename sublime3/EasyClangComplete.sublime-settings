@@ -123,7 +123,7 @@
   // Plugin uses smart caching to not load the data more times than needed.
   // Remove cache data older than specified time. Minimum value is 30 seconds.
   // Format: <hours>:<minutes>:<seconds>: "HH:MM:SS".
-  "max_cache_age": "00:00:30",
+  "max_cache_age": "00:10:00",
 
   // Show additional information on hover over function call/variable etc.
   // This replaces default sublime on hover behaviour
